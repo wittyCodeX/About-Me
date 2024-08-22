@@ -26,12 +26,12 @@ With the possibility of inscribing on certain Sats and Attributes.
 
 <hr />
 
-<h3><a href="https://www.ordinals.fun/" target="_blank">Odinals Fun</a> [Bitcoin]</h3>
+<h3><a href="https://www.ordinals.fun/" target="_blank">Odinals Fun</a> [Litecoin]</h3>
 <hr />
 
-<img align="right" width="400px" src="./assets/ordinalsfun.png">
+<img align="right" width="500px" src="./assets/ordinalsfun.png">
 
-Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinals NFTs and LTC20s. it offers a safe & fun to use non-custodial built in wallet where users can manage their assets easily and its own unique inscribing service specifically made for inscribing .litemap
+Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinals NFTs and LTC20s. 
 
 - Litemap : Verified .Litemap inscriptions will be displayed here
 
@@ -42,15 +42,3 @@ Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinal
 - Others : All non-listed &/or non-verified inscriptions will be displayed here
 
 - History : Wallet Inscribe & Trading history
-
-<strong>The best safety measures are built on ordinals.fun wallet !</strong>
-
-Send and receive Inscriptions with ease of mind 💙
-
-- Default 10,000lits inscriptions
-
-- Only display Safe-To-Send Balance
-
-- Automatic transection splitting
-
-Safety + Quality + Security = ☺️
