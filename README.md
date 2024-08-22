@@ -53,3 +53,22 @@ Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinal
 <strong>Top BRC-20 Coins by Market Cap</strong>
 
 BRC-20 is an experimental standard for fungible tokens on the Bitcoin blockchain. The Taproot and Ordinals protocol made the BRC-20 standard possible. BRC-20 tokens unlock new capabilities for the Bitcoin network, such as their use in DeFi protocols and blockchain applications. It involves some kind of DeFi projects on BTC and Rune protcal.
+
+<hr />
+
+<h3><a href="https://www.ordinalscouncil.com/" target="_blank">Ordinals Council</a> [Bitcoin]</h3>
+<hr />
+
+<img align="right" width="500px" src="./assets/ordinalscouncil.png">
+<strong><i>$CNCL</i></strong>
+ 
+- The biggest and broadest utility tool, providing downstream benefits for all future products. Created to concrete shared incentives between The Council and the Community
+
+<strong><i>Candidate PFP Ordinals</i></strong>
+
+- Community access badge. Hold it to become a Candidate. Candidates can become Council Members through Proof of Work.
+
+<strong><i>Toshipad</i></strong>
+
+- A gigantic, cross-crypto monument to the gravity of the Godchain BTC. An entry for all NFT projects to cross over onto BTC and find fertile soil.
+  Want to launch on Ordinals? TOSHIPAD offers seed funding, incubation, a professional support team, marketing and partnerships and a world class dev team. We’re here to streamline your launch.
