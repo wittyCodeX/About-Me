@@ -31,7 +31,7 @@ With the possibility of inscribing on certain Sats and Attributes.
 
 <img align="right" width="500px" src="./assets/ordinalsfun.png">
 
-Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinals NFTs and LTC20s. 
+Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinals NFTs and LTC20s.
 
 - Litemap : Verified .Litemap inscriptions will be displayed here
 
@@ -42,3 +42,14 @@ Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinal
 - Others : All non-listed &/or non-verified inscriptions will be displayed here
 
 - History : Wallet Inscribe & Trading history
+
+<hr />
+
+<h3><a href="https://www.ordinals.fun/" target="_blank">Brc20 Marketplace</a> [Bitcoin]</h3>
+<hr />
+
+<img align="right" width="500px" src="./assets/brc20.png">
+
+<strong>Top BRC-20 Coins by Market Cap</strong>
+
+BRC-20 is an experimental standard for fungible tokens on the Bitcoin blockchain. The Taproot and Ordinals protocol made the BRC-20 standard possible. BRC-20 tokens unlock new capabilities for the Bitcoin network, such as their use in DeFi protocols and blockchain applications. It involves some kind of DeFi projects on BTC and Rune protcal.
