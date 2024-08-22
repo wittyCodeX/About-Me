@@ -51,7 +51,6 @@ Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinal
 <img align="right" width="500px" src="./assets/brc20.png">
 
 <strong>Top BRC-20 Coins by Market Cap</strong>
-There are Top BRC-20 Coins listed by Market Cap and It involves some projects on BTC like Bitradio, and Rune protocol etc...
 
 - BRC-20 is an experimental standard for fungible tokens on the Bitcoin blockchain.
 - The Taproot and Ordinals protocol made the BRC-20 standard possible.
