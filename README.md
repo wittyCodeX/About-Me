@@ -74,3 +74,22 @@ Ordinals Fun is Litecoin marketplace where to buy and sell your favorite Ordinal
 
 - A gigantic, cross-crypto monument to the gravity of the Godchain BTC. An entry for all NFT projects to cross over onto BTC and find fertile soil.
   Want to launch on Ordinals? TOSHIPAD offers seed funding, incubation, a professional support team, marketing and partnerships and a world class dev team. We’re here to streamline your launch.
+
+<hr />
+
+<h3><a href="https://bitradio.netlify.app/" target="_blank">Bitradio</a> [Bitcoin]</h3>
+<hr />
+
+<img align="right" src="./assets/bitradio.png">
+
+Bitradio is the special idea of inscribing audio files to bitcoin blocks so you can inscribe the audio files to bitcoin blocks and you can listen to them you inscribed.
+
+
+<hr />
+
+<h3><a href="https://blockworld.netlify.app/" target="_blank">Block World</a> [Bitcoin]</h3>
+<hr />
+
+<img align="right" src="./assets/bitmap.png">
+
+Block world is bitcoin inscribing service to inscribe inscriptions to every block you wanna inscribe.
