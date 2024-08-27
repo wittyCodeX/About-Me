@@ -93,3 +93,56 @@ Bitradio is the special idea of inscribing audio files to bitcoin blocks so you 
 <img align="right" src="./assets/bitmap.png">
 
 Block world is bitcoin inscribing service to inscribe inscriptions to every block you wanna inscribe.
+
+
+<hr />
+
+<h3><a href="https://gem-pro.vercel.app/" target="_blank">Gem Base</a> [Ethereum]</h3>
+<hr />
+
+<img align="right" width="500px" src="./assets/gembase.png">
+
+Gem Base, a yield farm gearing up for a Stealth Launch on the BASE blockchain. Powered by the GEM token, it brings lucrative opportunities through its GEM/ETH LP pool + single staking for GEM.
+
+With a focus on sustainable growth, Gem Base aims to provide a rewarding yield farming experience.
+
+The standout feature is the GEM/ETH LP pool, offering a high APR to attract and retain investors and ensuring a steady flow of liquidity.
+
+By excluding blue-chip tokens, Gem Base safeguards against large player liquidity drains, establishing a fair and sustainable environment for all investors.
+
+
+<hr />
+
+<h3><a href="https://snow-yield-farming.vercel.app/" target="_blank">Snow Bank</a> & <a href="https://snow-dex.vercel.app/" target="_blank">Snow DEX</a> [Ethereum]</h3>
+<hr />
+
+<img align="right" width="500px" src="./assets/snowbank.png">
+
+<strong>Objective</strong>: Initiate the presale of SNOW tokens and yield earning Snow Bank NFT's, offering early access to investors and community members.
+
+<strong>Hype</strong>: Engage with early adopters, gather feedback, and build anticipation for the official launch.
+
+<strong>Beta Testing</strong>: Ensuring the durability of the Snow Bank platform, fine-tuning all technical and operational aspects.
+
+<strong>Launch of Snow Bank</strong>: Snow Bank goes live - marking the start of yield farming SNOW on Ethereum.
+SNOW/ETH LP Pool: Zap into the high APR SNOW/ETH LP pool along with exclusive staking options for SNOW and SNOW NFTs.
+Community Engagement: Strengthen community ties through interactive sessions, AMAs, and continuous support.
+
+<img align="right" width="500px" src="./assets/snowdex.png">
+
+Announce the upcoming presale for Snow Bank's Decentralized Exchange (DEX).
+Presale Goals: Aim to attract broader participation, laying the financial and community foundation for the DEX.
+Preparation for DEX Launch: Finalize the development and testing of the DEX, ensuring a seamless and secure experience for users.
+DEX Launch: The official launch of our cross-chain DEX.
+
+The expansion into a DEX marks a pivotal chapter in our journey. By building this platform, Snow Bank is not just diversifying our services but also reinforcing our commitment to creating a robust, user-centric DeFi ecosystem. This step will lay the groundwork for Snow Bank's future innovations and continued success in the DeFi space.
+
+
+<hr />
+
+<h3><a href="https://pulse-yield-farm.vercel.app/" target="_blank">PWild Base</a> [Ethereum]</h3>
+<hr />
+
+<img align="right" src="./assets/pwild.png">
+
+Yield Farming token staking on Pulse chain.
