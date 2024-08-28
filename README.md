@@ -145,4 +145,4 @@ The expansion into a DEX marks a pivotal chapter in our journey. By building thi
 
 <img align="right" src="./assets/pwild.png">
 
-Yield Farming token staking on Pulse chain.
+Yield Farming token staking platform on Pulse chain.
